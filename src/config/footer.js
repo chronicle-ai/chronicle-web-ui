@@ -27,11 +27,11 @@ export const footerLists = [
 		items: [
 			{
 				title: 'Terms of Use',
-				slug: '/company/legal',
+				slug: '/chronicle-web-ui/company/legal',
 			},
 			{
 				title: 'Privacy Policy',
-				slug: '/company/legal',
+				slug: '/chronicle-web-ui/company/legal',
 			}
 		],
 	},

@@ -1,10 +1,10 @@
 export const nav = [
 	{
 		title: 'Home',
-		slug: '/',
+		slug: '/chronicle-web-ui',
 	},
 	{
 		title: 'Contact',
-		slug: '/company/contact',
+		slug: '/chronicle-web-ui/company/contact',
 	},
 ];
